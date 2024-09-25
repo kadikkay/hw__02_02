@@ -1,0 +1,24 @@
+.App {
+    --header_height: 60px;
+    max-width: 1360px;
+    margin:  0 auto;
+    background-color: #FFFFFF;
+}
+
+.hw {
+    padding: 24px 0;
+    border-top: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+/* .hw > div{
+    max-height: 500px;
+    overflow-y: auto;
+} */
+
+.hwTitle {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26.82px;
+    padding-bottom: 10px;
+}
